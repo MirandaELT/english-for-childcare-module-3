@@ -1,5 +1,5 @@
 # english-for-childcare-module-3
-English for Childcare (CEFR A2-B1) Module 3: Healthy Eating for Families (Rise Prototype)
+## English for Childcare (CEFR A2-B1) Module 3: Healthy Eating for Families (Rise Prototype)
 
 ## Project Overview
 This project showcases an asynchronous e-learning module designed as part of a blended English for Childcare course for adult English for Speakers of Other Languages (ESOL) learners at CEFR A2–B1 (Common European Framework of Reference) level. The focus is Module 3: Healthy Eating for Families, developed as a standalone digital component that learners complete independently between live sessions. The module was built in Articulate Rise as a prototype to demonstrate instructional design, learning flow, and interaction design for employability-focused ESOL provision.
