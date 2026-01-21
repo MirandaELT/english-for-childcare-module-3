@@ -54,9 +54,10 @@ This repository contains a complete set of portfolio design artefacts:
 
 
 ## Tools Used
-•	Articulate Rise (prototype authoring)
-•	Google Classroom (intended delivery context)
-•	Lightweight browser-based tools for interaction and feedback
+- Articulate Rise (prototype authoring)
+- Google Classroom (intended delivery context)
+- Lightweight browser-based tools for interaction and feedback
+
 
 ## Delivery Note
 While the prototype is built in Rise, the design is platform-agnostic. The learning flow and interactions can be implemented in institutionally supported VLEs (eg Google Classroom) or adapted for SCORM-compatible LMSs in other college contexts.
