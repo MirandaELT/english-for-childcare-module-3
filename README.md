@@ -27,12 +27,6 @@ This repository contains a complete set of portfolio design artefacts:
   [/docs/english-for-childcare-mod3-storyboard.pdf](docs/english-for-childcare-mod3-storyboard.pdf)
 
 - Blended learning flow diagram – visual overview of the asynchronous-to-live learning journey  
-  [.docs/flows/english-for-childcare-blended-learning.pdf](flows/english-for-childcare-blended-learning.pdf)
-
-- Asynchronous learning flow diagram – visual overview of the self-paced learner journey  
-  [.docs/flows/english-for-childcare-asynchronous-learning.pdf](flows/english-for-childcare-asynchronous-learning.pdf)
-
-- Blended learning flow diagram – visual overview of the asynchronous-to-live learning journey  
   [View PDF](./docs/flows/english-for-childcare-blended-learning.pdf)
 
 - Asynchronous learning flow diagram – visual overview of the self-paced learner journey  
@@ -41,17 +35,18 @@ This repository contains a complete set of portfolio design artefacts:
 
 ## Screenshots
 
-**Welcome & learning objectives**  
-![Welcome screen](docs/screenshots/welcome-screen.png)
+- Welcome & learning objectives  
+  [View screenshot](./docs/screenshots/welcome-screen.png)
 
-**Vocabulary input (flashcards with audio)**  
-![Vocabulary flashcards](docs/screenshots/vocab-flashcards.png)
+- Vocabulary input (flashcards with audio)  
+  [View screenshot](./docs/screenshots/vocab-flashcards.png)
 
-**Practice activity (knowledge check)**  
-![Practice activity](docs/screenshots/practice-activity.png)
+- Practice activity (knowledge check)  
+  [View screenshot](./docs/screenshots/practice-activity.png)
 
-**Reflection & next steps**  
-![Reflection screen](docs/screenshots/reflection-next-steps.png)
+- Reflection & next steps  
+  [View screenshot](./docs/screenshots/reflection-next-steps.png)
+
 
 ## Tools Used
 •	Articulate Rise (prototype authoring)
