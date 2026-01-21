@@ -17,16 +17,16 @@ Module 3 was selected for full prototyping because the content is concrete, visu
 This repository contains a complete set of portfolio design artefacts:
 
 - Scoping document – learning outcomes, audience needs, constraints, and module structure  
-  [/docs/english-for-childcare-mod3-scoping.pdf](docs/english-for-childcare-mod3-scoping.pdf)
+  [View PDF](docs/english-for-childcare-mod3-scoping.pdf)
 
 - Wireframe – high-level learning flow and navigation  
-  [/docs/english-for-childcare-mod3-wireframe.pdf](docs/english-for-childcare-mod3-wireframe.pdf)
+  [View PDF](docs/english-for-childcare-mod3-wireframe.pdf)
 
 - Screen plan – screen-level interactions and learner behaviour  
-  [/docs/english-for-childcare-mod3-screenplan.pdf](docs/english-for-childcare-mod3-screenplan.pdf)
+  [View PDF](docs/english-for-childcare-mod3-screenplan.pdf)
 
 - Storyboard – final on-screen text, prompts, feedback, and audio decisions  
-  [/docs/english-for-childcare-mod3-storyboard.pdf](docs/english-for-childcare-mod3-storyboard.pdf)
+  [View PDF](docs/english-for-childcare-mod3-storyboard.pdf)
 
 - Blended learning flow diagram – visual overview of the asynchronous-to-live learning journey  
   [View PDF](./docs/flows/english-for-childcare-blended-learning.pdf)
