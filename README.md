@@ -32,6 +32,13 @@ This repository contains a complete set of portfolio design artefacts:
 - Asynchronous learning flow diagram – visual overview of the self-paced learner journey  
   [.docs/flows/english-for-childcare-asynchronous-learning.pdf](flows/english-for-childcare-asynchronous-learning.pdf)
 
+- Blended learning flow diagram – visual overview of the asynchronous-to-live learning journey  
+  [View PDF](./docs/flows/english-for-childcare-blended-learning.pdf)
+
+- Asynchronous learning flow diagram – visual overview of the self-paced learner journey  
+  [View PDF](./docs/flows/english-for-childcare-asynchronous-learning.pdf)
+
+
 ## Screenshots
 
 **Welcome & learning objectives**  
