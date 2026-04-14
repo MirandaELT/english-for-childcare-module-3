@@ -1,4 +1,4 @@
-# english-for-childcare-rise-module3
+# English for Childcare | Rise Module 3
 ## English for Childcare (CEFR A2-B1) Module 3: Healthy Eating for Families (Rise Prototype)
 ▶️ [Experience the e-learning module](https://chipper-speculoos-b792bd.netlify.app/)
 <br>
